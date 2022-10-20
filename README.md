@@ -11,5 +11,4 @@
  0   3
     / \
    2    4
-   
 Continue by writing numbers greater than itself to the right of the root and numbers less than itself to the left.
